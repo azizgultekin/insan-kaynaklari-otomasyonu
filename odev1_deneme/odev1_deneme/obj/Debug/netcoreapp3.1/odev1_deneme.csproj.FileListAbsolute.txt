@@ -1,0 +1,85 @@
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.exe
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.deps.json
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.runtimeconfig.json
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.runtimeconfig.dev.json
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.dll
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.pdb
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csprojAssemblyReference.cache
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csproj.GenerateResource.cache
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.AssemblyInfoInputs.cache
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.AssemblyInfo.cs
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csproj.CoreCompileInputs.cache
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.dll
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.pdb
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.genruntimeconfig.cache
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.exe
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.deps.json
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.runtimeconfig.json
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.runtimeconfig.dev.json
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.dll
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.pdb
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csprojAssemblyReference.cache
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csproj.GenerateResource.cache
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.AssemblyInfoInputs.cache
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.AssemblyInfo.cs
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csproj.CoreCompileInputs.cache
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.dll
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.pdb
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.genruntimeconfig.cache
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.ik.resources
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.exe
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.deps.json
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.runtimeconfig.json
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.runtimeconfig.dev.json
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.dll
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.pdb
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csprojAssemblyReference.cache
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.ik.resources
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csproj.GenerateResource.cache
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.AssemblyInfoInputs.cache
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.AssemblyInfo.cs
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csproj.CoreCompileInputs.cache
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.dll
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.pdb
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.genruntimeconfig.cache
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.exe
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.deps.json
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.runtimeconfig.json
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.runtimeconfig.dev.json
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.dll
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.pdb
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csprojAssemblyReference.cache
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.ik.resources
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csproj.GenerateResource.cache
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.AssemblyInfoInputs.cache
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.AssemblyInfo.cs
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csproj.CoreCompileInputs.cache
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.dll
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.pdb
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.genruntimeconfig.cache
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.baslangic.resources
+C:\Users\Aziz GÜLTEKİN\Desktop\Yazılım Geliştirme  Lab. Projesi\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.basvuru.resources
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.baslangic.resources
+C:\Users\Aziz GÜLTEKİN\Desktop\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.basvuru.resources
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.baslangic.resources
+C:\Users\Enesg\OneDrive\Masaüstü\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.basvuru.resources
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.baslangic.resources
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.basvuru.resources
+C:\Users\Enesg\source\repos\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.ik.resources
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.exe
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.deps.json
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.runtimeconfig.json
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.runtimeconfig.dev.json
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.dll
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\bin\Debug\netcoreapp3.1\odev1_deneme.pdb
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csprojAssemblyReference.cache
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.baslangic.resources
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.basvuru.resources
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.ik.resources
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csproj.GenerateResource.cache
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.AssemblyInfoInputs.cache
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.AssemblyInfo.cs
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.csproj.CoreCompileInputs.cache
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.dll
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.pdb
+E:\PROJELERİM\C#\Yedekler\odev1_deneme\odev1_deneme\obj\Debug\netcoreapp3.1\odev1_deneme.genruntimeconfig.cache

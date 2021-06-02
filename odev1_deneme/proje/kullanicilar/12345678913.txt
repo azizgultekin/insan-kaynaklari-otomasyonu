@@ -1,0 +1,75 @@
+TC No:12345678913
+Ad: Neriman
+Soyad: Koç
+Adresi: Ankara
+E-Mail: nkoca@ymail.com
+Tel No: 5331234567
+Doğum Tarihi: 1988
+Yabancı dil: Almanca
+Ehliyet: E
+--------------------
+Eğitim Bilgileri
+Okul adı: Ankara Anadolu Öğretmen Lisesi
+Türü: lise
+Bölümü: Sayısal
+Başlangış tarihi: 2002
+Bitiş tarihi: 2005
+Not ortalaması: 90
+--------------------
+Okul adı: Ege Üniversitesi
+Türü: lisans
+Bölümü: Elektronik Haberleşme Müh
+Başlangış tarihi: 2005
+Bitiş tarihi: 2010
+Not ortalaması: 70
+--------------------
+Okul adı: Ege Üniversitesi
+Türü: yüksek lisans
+Bölümü: Elektronik Haberleşme Müh
+Başlangış tarihi: 2011
+Bitiş tarihi: Devam Ediyor
+Not ortalaması: e
+--------------------
+Okul adı: 
+Türü: 
+Bölümü: 
+Başlangış tarihi: 
+Bitiş tarihi: 
+Not ortalaması: 
+--------------------
+İş Deneyimi
+Çalıştığı yer adı: Ege Üni Elektronik Haberleşme
+İş adresi: İzmir
+Pozisyon veya görevi: Araştırma Görevlisi
+Tecrübe süresi: 3
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+--------------------
+--------------------
+
+
+

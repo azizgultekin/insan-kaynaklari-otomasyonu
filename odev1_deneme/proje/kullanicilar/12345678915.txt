@@ -1,0 +1,75 @@
+TC No:12345678915
+Ad: Selim 
+Soyad: Mert
+Adresi: İstanbul
+E-Mail: smert@gmail.com
+Tel No: 5061234567
+Doğum Tarihi: 1985
+Yabancı dil: 
+Ehliyet: B
+--------------------
+Eğitim Bilgileri
+Okul adı: Çorum Lisesi
+Türü: lise
+Bölümü: Sayısal
+Başlangış tarihi: 1999
+Bitiş tarihi: 2002
+Not ortalaması: 80
+--------------------
+Okul adı: Çorum Lisesi
+Türü: lisans
+Bölümü: Elektronik Mühendisliği
+Başlangış tarihi: 2004
+Bitiş tarihi: 2010
+Not ortalaması: 77
+--------------------
+Okul adı: Marmara Üniversitesi
+Türü: Lisans
+Bölümü: Elektronik Mühendisliği
+Başlangış tarihi: 2004
+Bitiş tarihi: 2010
+Not ortalaması: 77
+--------------------
+Okul adı: 
+Türü: 
+Bölümü: 
+Başlangış tarihi: 
+Bitiş tarihi: 
+Not ortalaması: 
+--------------------
+İş Deneyimi
+Çalıştığı yer adı: KAREL
+İş adresi: İstanbul
+Pozisyon veya görevi: Gömülü Yazılım Mühendisi
+Tecrübe süresi: 5
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+--------------------
+--------------------
+
+
+

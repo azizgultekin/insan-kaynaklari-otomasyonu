@@ -1,0 +1,75 @@
+TC No:12345678912
+Ad: Aslı 
+Soyad: Yel
+Adresi: Trabzon
+E-Mail: ayel@yahoo.com
+Tel No: 5421234567
+Doğum Tarihi: 1970
+Yabancı dil: İngilizce
+Ehliyet: 
+--------------------
+Eğitim Bilgileri
+Okul adı: Of Kız Meslek Lisei
+Türü: lise
+Bölümü: Elektrik
+Başlangış tarihi: 1985
+Bitiş tarihi: 1990
+Not ortalaması: 79
+--------------------
+Okul adı: Orta Doğu Teknik Üniversitesi
+Türü: lisans
+Bölümü: Elektrik-Elektronik Mühendisliği
+Başlangış tarihi: 1992
+Bitiş tarihi: 1996
+Not ortalaması: 80
+--------------------
+Okul adı: 
+Türü: 
+Bölümü: 
+Başlangış tarihi: 
+Bitiş tarihi: 
+Not ortalaması: 
+--------------------
+Okul adı: 
+Türü: 
+Bölümü: 
+Başlangış tarihi: 
+Bitiş tarihi: 
+Not ortalaması: 
+--------------------
+İş Deneyimi
+Çalıştığı yer adı: Türk Telekom
+İş adresi: Trabzon
+Pozisyon veya görevi: Mühendis
+Tecrübe süresi: 10
+--------------------
+Çalıştığı yer adı: Türk Telekom
+İş adresi: Ankara
+Pozisyon veya görevi: Müdür
+Tecrübe süresi: 14
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+--------------------
+--------------------
+
+
+

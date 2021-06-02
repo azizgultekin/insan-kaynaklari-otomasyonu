@@ -1,0 +1,75 @@
+TC No:12345678914
+Ad: Ahmet
+Soyad: Sarı
+Adresi: Ankara
+E-Mail: asari@gmail.com
+Tel No: 5331234567
+Doğum Tarihi: 1989
+Yabancı dil: Arapça,İngilizce,Almanca
+Ehliyet: B
+--------------------
+Eğitim Bilgileri
+Okul adı: Manisa Lisesi
+Türü: lise
+Bölümü: Sayısal
+Başlangış tarihi: 2003
+Bitiş tarihi: 2006
+Not ortalaması: 70
+--------------------
+Okul adı: Yalvaç MYO
+Türü: yüksek okul
+Bölümü: Bilgisayar Programcılığı
+Başlangış tarihi: 2006
+Bitiş tarihi: 2008
+Not ortalaması: 95
+--------------------
+Okul adı: Selçuk Üniversitesi
+Türü: lisans
+Bölümü: Matematik Bilgisayar
+Başlangış tarihi: 2009
+Bitiş tarihi: 2012
+Not ortalaması: 90
+--------------------
+Okul adı: Gazi Üniversitesi
+Türü: yüksek lisans
+Bölümü: Bilgisayar Müh
+Başlangış tarihi: 2012
+Bitiş tarihi: 2015
+Not ortalaması: 92
+--------------------
+İş Deneyimi
+Çalıştığı yer adı: AG Software
+İş adresi: Konya
+Pozisyon veya görevi: Programcı
+Tecrübe süresi: 2
+--------------------
+Çalıştığı yer adı: Randstad Professionals
+İş adresi: Ankara
+Pozisyon veya görevi: Firmware Engineer
+Tecrübe süresi: 2
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+--------------------
+--------------------
+
+
+

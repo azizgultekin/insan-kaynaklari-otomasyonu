@@ -1,0 +1,75 @@
+TC No:12345678910
+Ad: Ali 
+Soyad: Kaya
+Adresi: İstanbul
+E-Mail: akaya@gmail.com
+Tel No: 5321234567
+Doğum Tarihi: 1985
+Yabancı dil: ingilizce,fransızca
+Ehliyet: A2,B
+--------------------
+Eğitim Bilgileri
+Okul adı: Galatasaray Lisesi
+Türü: lise
+Bölümü: Sayısal
+Başlangış tarihi: 1999
+Bitiş tarihi: 2003
+Not ortalaması: 82
+--------------------
+Okul adı: Yıldız Teknik Üniversitesi
+Türü: lisans
+Bölümü: Bilgisayar Müh
+Başlangış tarihi: 2004
+Bitiş tarihi: 2009
+Not ortalaması: 80
+--------------------
+Okul adı: Yıldız Teknik Üniversitesi
+Türü: yüksek lisans
+Bölümü: Bilgisayar Müh
+Başlangış tarihi: 2010
+Bitiş tarihi: 2013
+Not ortalaması: 95
+--------------------
+Okul adı: Boğaziçi Üniversitesi
+Türü: doktora
+Bölümü: Bilgisayar Müh
+Başlangış tarihi: 2013
+Bitiş tarihi: Devam Ediyor
+Not ortalaması: e
+--------------------
+İş Deneyimi
+Çalıştığı yer adı: Burger King
+İş adresi: İstanbul
+Pozisyon veya görevi: Vardiya Müdürü
+Tecrübe süresi: 2
+--------------------
+Çalıştığı yer adı: Armada Bilgisayar
+İş adresi: İstanbul
+Pozisyon veya görevi: Yazılım Uzmanı
+Tecrübe süresi: 1
+--------------------
+Çalıştığı yer adı: Comodo Yazılım AŞ
+İş adresi: Ankara
+Pozisyon veya görevi: Front End Developer
+Tecrübe süresi: 0,5
+--------------------
+Çalıştığı yer adı: Destek Group
+İş adresi: İstanbul
+Pozisyon veya görevi: Bilgisayar Mühendisi
+Tecrübe süresi: 2
+--------------------
+Çalıştığı yer adı: Otokar
+İş adresi: Kocaeli
+Pozisyon veya görevi: Network ve Güvenlik Mühendisi
+Tecrübe süresi: 1,5
+--------------------
+Çalıştığı yer adı: Vodafone
+İş adresi: İstanbul
+Pozisyon veya görevi: Mediation Solutions Senior Specialist 
+Tecrübe süresi: 1,5
+--------------------
+--------------------
+--------------------
+
+
+

@@ -1,0 +1,75 @@
+TC No:12345678911
+Ad: Mehmet 
+Soyad: Sağlam
+Adresi: Kocaeli
+E-Mail: msaglam@hotmail.com
+Tel No: 5051234567
+Doğum Tarihi: 1990
+Yabancı dil: 
+Ehliyet: B
+--------------------
+Eğitim Bilgileri
+Okul adı: Isparta Anadolu Lisesi
+Türü: lise
+Bölümü: Sayısal
+Başlangış tarihi: 2005
+Bitiş tarihi: 2009
+Not ortalaması: 92
+--------------------
+Okul adı: Kocaeli Üniversitesi
+Türü: lisans
+Bölümü: Bilgisayar Müh
+Başlangış tarihi: 2010
+Bitiş tarihi: 2015
+Not ortalaması: 75
+--------------------
+Okul adı: 
+Türü: 
+Bölümü: 
+Başlangış tarihi: 
+Bitiş tarihi: 
+Not ortalaması: 
+--------------------
+Okul adı: 
+Türü: 
+Bölümü: 
+Başlangış tarihi: 
+Bitiş tarihi: 
+Not ortalaması: 
+--------------------
+İş Deneyimi
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+Çalıştığı yer adı: 
+İş adresi: 
+Pozisyon veya görevi: 
+Tecrübe süresi: 0
+--------------------
+--------------------
+--------------------
+
+
+
